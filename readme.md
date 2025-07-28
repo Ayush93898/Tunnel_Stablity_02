@@ -1,4 +1,4 @@
-# Finite Element and Neural Network Approach for Reliable Tunnel Support Pressure (σ₁/su₀₅)
+# Finite Element and Neural Network Approach for Reliable Tunnel Support Pressure (σᵢ/sᵤ₀ₛ)
 
 ## Context
 
